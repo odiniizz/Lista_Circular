@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1696041792 source:/home/odiniizz/Documentos/ListaCircular/main.cpp
+	"ListaC.h"
+
+1696041571 source:/home/odiniizz/Documentos/ListaCircular/ListaC.cpp
+	"ListaC.h"
+
+1696041255 /home/odiniizz/Documentos/ListaCircular/ListaC.h
+	<iostream>
+
